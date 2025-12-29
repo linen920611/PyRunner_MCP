@@ -31,6 +31,7 @@
 - import 大型套件（pandas、torch）一次，後續執行秒開
 - 變數、函式、類別都持續存在
 
+![[錄製內容 2025-12-30 023534 1.mp4]]
 ---
 
 ## 🤔 為什麼需要這個？
@@ -174,7 +175,7 @@ git clone https://github.com/YOUR_USERNAME/PyRunner_MCP.git
 cd PyRunner_MCP
 
 # 2. 安裝依賴
-pip install mcp psutil
+pip install fastmcp psutil
 ```
 
 ### 配置 MCP Server
@@ -353,7 +354,16 @@ PyRunner_MCP/
 
 ---
 
-## 📜 License
+## � 聯絡方式 (Contact)
+
+有任何問題或建議，歡迎聯繫我：
+
+- **Instagram**: [@linyilun.0611](https://www.instagram.com/linyilun.0611?igsh=OW1zcGw1bTA5MHMx&utm_source=qr)
+- **Email**: linen920611r@gmail.com
+
+---
+
+## �📜 License
 
 MIT
 
