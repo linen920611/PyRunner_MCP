@@ -148,7 +148,7 @@ run_shell("git clone https://github.com/xxx/yyy")
 
 ---
 
-## 💡 適用場景
+## 適用場景
 
 ### 適合 PyRunner MCP
 
