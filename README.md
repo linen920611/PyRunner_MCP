@@ -75,8 +75,8 @@ https://github.com/user-attachments/assets/4b63e67b-a7dc-4b75-ab78-07ea6aa67314
 | **變數跨執行保留** | ❌ | ❌ | ✅ |
 | **Kernel 狀態監控** | ❌ | ❌ | ✅ |
 | **變數檢視/重置** | ❌ | ❌ | ✅ |
-| **長時間任務不阻塞** | ⚠️ 可能卡住 | ⚠️ 可能卡住 | ✅ |
-| 語意化腳本搜尋 | ⚠️ 檔名搜尋 | ✅ @workspace | ✅ metadata |
+| **長時間任務不阻塞** |  可能卡住 |  可能卡住 | ✅ |
+| 語意化腳本搜尋 |  檔名搜尋 |  @workspace |  metadata |
 
 ---
 
@@ -123,7 +123,7 @@ check_packages("pandas numpy torch")
 | 特性 | Gemini CLI `save_memory` | **PyRunner `remember()`** |
 |------|--------------------------|---------------------------|
 | 格式 | 純文字 | JSON（結構化）|
-| 分類 | ❌ | ✅ preference / project / command |
+| 分類 | 無 | preference / project / command |
 | 搜尋 | 全文 | 關鍵字 + 分類 |
 
 ```python
